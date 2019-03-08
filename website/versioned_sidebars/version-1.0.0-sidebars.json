@@ -1,0 +1,18 @@
+{
+  "version-1.0.0-docs": {
+    "Overview": [
+      "version-1.0.0-index"
+    ],
+    "API": [
+      {
+        "type": "subcategory",
+        "label": "API",
+        "ids": [
+          "version-1.0.0-api/api-overview",
+          "version-1.0.0-api/api-consume",
+          "version-1.0.0-api/api-deploy"
+        ]
+      }
+    ]
+  }
+}
