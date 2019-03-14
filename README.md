@@ -8,4 +8,4 @@ Steps to reproduce the bug
 6. Click on consumption link, it is broken. Ideally, it should lead to http://localhost:3000/docs/api/api-consume.html. But it is broken at the moment.
 
 Basically Consumption.md is present in version 1.0.0 but removed from version next. This causes broken links in version 1.0.0.
-Basically, with the changes in PR#1281](https://github.com/facebook/Docusaurus/pull/1281) ,a document that is in version 1.0.0 but removed from next version, will have broken links for that document in version 1.0.0.
+Basically, with the changes in [PR#1281](https://github.com/facebook/Docusaurus/pull/1281) ,a document that is in version 1.0.0 but removed from next version, will have broken links for that document in version 1.0.0.
